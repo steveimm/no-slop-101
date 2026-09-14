@@ -33,6 +33,7 @@ Utilize CLI as much as possible, do not edit project configuration and dependenc
 Examples:
 - Use `uv init` to instantiate project, don't write the `pyproject.toml` manually
 - Use `uv add` to add new dependencies, don't manually edit the `pyproject.toml` to add new library. You do NOT know the latest version
+- Do not edit lock files directly, regenerate instead
 
 # Style
 - Your code is NOT a scratch pad 
@@ -88,5 +89,6 @@ def quicksort(arr: list[int]) -> list:
 - Every func must have docstring following google style 
   - 1-2 lines brief explanation in the beginning, followed by args, returns, exception, etc.     
   - Don't mention the type in args explanation, the param type already explain that
+  - Exception is built-in functions override like `__enter__`, `__repr__`, etc. You may omit docstring on those, but if there is a specific reason/explanation to be added, then include docstring
 - Each entry in `__all__` inside `__init__` must go on its own line, even if the whole list fit within 140 col
 
