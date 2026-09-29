@@ -80,6 +80,7 @@ The list below are not exhaustive.
 - "It's not just [X], it's also [Y]..."
 - "Think of [X] as [elaborate metaphor]..."
 - "Here is a list of [X], the [n]-th item matters ...:"
+- "Not [X], but it assumes [Y], and it is worth being explicit about it...."
 
 
 
