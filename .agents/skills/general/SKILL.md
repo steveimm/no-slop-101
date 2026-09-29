@@ -29,7 +29,7 @@ Must be strictly followed.
 
 ## Plain language, terse
 - Explain using simple plain language
-  - Banned: any jargon like "foot gun", "load bearing", "bite you", "no ops", "smoking gun", "stopgap", etc.
+  - Banned: any jargon like "foot gun", "load bearing", "bite you", "no ops", "smoking gun", "stopgap", "shim", etc.
 - No filler phrases that do not add any value.
   - Banned: "It's important to note", "When it comes to", "At the end of the day", "In the realm of", "It goes without saying", "This is where X comes in", etc.
 
@@ -79,7 +79,7 @@ The list below are not exhaustive.
 - "Whether you're a [X], [Y], or [Z]..." (listing three examples after "whether")
 - "It's not just [X], it's also [Y]..."
 - "Think of [X] as [elaborate metaphor]..."
-
+- "Here is a list of [X], the [n]-th item matters ...:"
 
 
 
