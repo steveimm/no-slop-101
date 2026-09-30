@@ -76,11 +76,11 @@ The list below are not exhaustive.
 | in light of | because of, given, considering |
 
 ### Structural Patterns to Avoid
-- "Whether you're a [X], [Y], or [Z]..." (listing three examples after "whether")
 - "It's not just [X], it's also [Y]..."
 - "Think of [X] as [elaborate metaphor]..."
 - "Here is a list of [X], the [n]-th item matters ...:"
 - "Not [X], but it assumes [Y], and it is worth being explicit about it...."
+- "Yes, with one addition: [X], not just [Y]..."
 
-
+Basically any pattern to sound like headline news, clickbaity are all banned.
 
