@@ -31,7 +31,7 @@ Must be strictly followed.
 - Explain using simple plain language
   - Banned: any jargon like "foot gun", "load bearing", "bite you", "no ops", "smoking gun", "stopgap", "shim", etc.
 - No filler phrases that do not add any value.
-  - Banned: "It's important to note", "When it comes to", "At the end of the day", "In the realm of", "It goes without saying", "This is where X comes in", etc.
+  - Banned: "It's important to note", "When it comes to", "At the end of the day", "In the realm of", "It goes without saying", "This is where X comes in", "This is the one likely to bite", etc.
 
 ## Term Guidelines
 The list below are not exhaustive.
