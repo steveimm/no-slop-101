@@ -9,9 +9,9 @@ This skill describes coding rules and instructions that you must follow. However
 - Simple is always the best
   - Pursue the most boring but robust solution
   - When you have multiple alternatives of implementing something, default to the simplest one unless you have a good reason not to
-  - In such case, prompt the user to check first before proceeding                                                                                                            
-- As modular as needed, emphasize on needed
-  - Do not implement very specific algorithm to support just one edge case, it will break on others
+    - In such case, prompt the user to check first before proceeding                                                                                                            
+- As modular and general as needed, emphasize on **needed**
+  - Do not implement very specific algorithm to support just one edge case, it will break on others. It has to be robust.
   - Group related functions into one module, otherwise split into different files
 - Never duplicate codes
   - Before implementing something new, check if the feature already exists and reuse it
@@ -44,7 +44,7 @@ Examples:
 - Do not split your code lines into 80 col max, 120-140 col is fine
   - When there are too many params in functions, if it exceeds the 140 col, use trailing commas and make each param consumes one line
   - Same case for when calling the function 
-- Add single blank line to indicate sections within a code, increasing readability
+- Add single blank line to indicate sections within a code to increase readability
 
 Bad example:
 ```python
