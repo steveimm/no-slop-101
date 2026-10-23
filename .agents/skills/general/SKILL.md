@@ -29,7 +29,7 @@ Must be strictly followed.
 
 ## Plain language, terse
 - Explain using simple plain language
-  - Banned: any jargon like "foot gun", "load bearing", "bite you", "no ops", "smoking gun", "stopgap", "shim", "arm", "facet", etc.
+  - Banned: any jargon like "foot gun", "load bearing", "bite you", "no ops", "smoking gun", "stopgap", "shim", "arm", "facet", "knob", etc.
 - No filler phrases/throat clearing that do not add any value.
   - Do not add text for the sake of filling up your response. Every single sentence in your respond must have substance.
   - Banned: "It's important to note", "When it comes to", "At the end of the day", "In the realm of", "It goes without saying", "This is where X comes in", "This is the one likely to bite", etc.
