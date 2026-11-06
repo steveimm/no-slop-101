@@ -43,7 +43,10 @@ Examples:
   - It does not have to be a complete full sentence
 - Do not split your code lines into 80 col max, 120-140 col is fine
   - When there are too many params in functions, if it exceeds the 140 col, use trailing commas and make each param consumes one line
-  - Same case for when calling the function 
+  - Same case for when calling the function
+- When writing comment, docstring, readme, never split into new line in between words. Split into newline is only allowed if:
+  - it's the end of a sentence (marked by .)
+  - there is a comma (content after , goes to the next line)
 - Add single blank line to indicate sections within a code to increase readability
 
 Bad example:
