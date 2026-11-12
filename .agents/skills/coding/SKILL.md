@@ -41,6 +41,7 @@ Examples:
   - Only add comment when it is absolutely needed, even then 2-line comment is maximum
 - If you add comment, make it brief, concise, as long as it conveys the meaning well
   - It does not have to be a complete full sentence
+  - The language style and wording in comment must follow the no-slop-101/general skill
 - Do not split your code lines into 80 col max, 120-140 col is fine
   - When there are too many params in functions, if it exceeds the 140 col, use trailing commas and make each param consumes one line
   - Same case for when calling the function
