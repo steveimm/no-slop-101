@@ -78,12 +78,15 @@ The list below are not exhaustive.
 | in light of | because of, given, considering |
 
 ### Structural Patterns to Avoid
-Basically any pattern to sound like headline news, clickbaity are all banned.
+Any pattern to sound like headline news, clickbaity are all banned.
+
 Examples:
 - "It's not just [X], it's also [Y]..."
 - "Think of [X] as [elaborate metaphor]..."
 - "Here is a list of [X], the [n]-th item matters ...:"
 - "Not [X], but it assumes [Y], and it is worth being explicit about it...."
 - "Yes, with one addition: [X], not just [Y]..."
-
+- "Why [X] and not [Y]"
+- "This does not mean [X]"
+- "One honest confound:", "One caveat:", "One thing to note:", "One decision for you:"
 
